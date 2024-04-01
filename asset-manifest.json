@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c1a8e193.css",
+    "main.js": "/Portfolio/static/js/main.f0e3fa3e.js",
+    "static/media/HorrorGame.gif": "/Portfolio/static/media/HorrorGame.ba0e6f16d5fb02b9f185.gif",
+    "static/media/Steeljudgement.gif": "/Portfolio/static/media/Steeljudgement.17165574e268edc8f893.gif",
+    "static/media/TimeGame.gif": "/Portfolio/static/media/TimeGame.8a60153838e4de3f499b.gif",
+    "static/media/ShaderGraph.gif": "/Portfolio/static/media/ShaderGraph.af184e3917b3e1933538.gif",
+    "static/media/ChuanWeiResume.pdf": "/Portfolio/static/media/ChuanWeiResume.71b12c6f9f179c985536.pdf",
+    "static/media/Potrait.jpeg": "/Portfolio/static/media/Potrait.76c89cf207963af5332b.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.c1a8e193.css.map": "/Portfolio/static/css/main.c1a8e193.css.map",
+    "main.f0e3fa3e.js.map": "/Portfolio/static/js/main.f0e3fa3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a8e193.css",
+    "static/js/main.f0e3fa3e.js"
+  ]
+}
