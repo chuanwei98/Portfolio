@@ -1,0 +1,47 @@
+.navbar{
+    z-index: 4;
+    height: 3rem;
+    width: 90%;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    font-family: monospace;
+    font-size: 15px;
+    background-color: rgb(48, 48, 48);
+    border-radius: 25px;
+}
+
+.logo{
+    height: 5rem;
+    image-rendering: pixelated;
+}
+
+.navlink{
+    margin: 1rem;
+    cursor: pointer;
+    color:white;
+}
+.linkedin{
+    height: 2rem;
+    width: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(7, 98, 200);
+    color: white;
+    border-radius: 25px;
+}
+
+.linkedinText{
+    text-align: center;
+}
+.linkedinText:link{
+    color: white;
+}
+.linkedinText:visited{
+    color: white;
+}
